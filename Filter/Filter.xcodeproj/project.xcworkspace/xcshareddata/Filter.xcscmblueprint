@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "ABCA9D9F592FD302D2CA24962061A77F783A2E4D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8E1E26FEAE77CBC55343B1D709DE27622FC5377B" : 0,
+    "ABCA9D9F592FD302D2CA24962061A77F783A2E4D" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "518E24D6-42BA-450B-ADE1-EBDEF216EB07",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8E1E26FEAE77CBC55343B1D709DE27622FC5377B" : "",
+    "ABCA9D9F592FD302D2CA24962061A77F783A2E4D" : "Filter\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Filter",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Filter.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Keheira\/iOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8E1E26FEAE77CBC55343B1D709DE27622FC5377B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Keheira\/Filter.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "ABCA9D9F592FD302D2CA24962061A77F783A2E4D"
+    }
+  ]
+}
